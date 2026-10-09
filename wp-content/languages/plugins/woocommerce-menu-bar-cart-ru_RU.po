@@ -1,0 +1,249 @@
+# Translation of Plugins - Menu Cart for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Menu Cart for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-07-19 08:43:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Menu Cart for WooCommerce - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "www.wpovernight.com/"
+msgstr "www.wpovernight.com/"
+
+#. Author of the plugin/theme
+msgid "Jeremiah Prummer, Ewout Fernhout"
+msgstr "Jeremiah Prummer, Ewout Fernhout"
+
+#. Description of the plugin/theme
+msgid "Extension for WooCommerce that places a cart icon with number of items and total cost in the menu bar. Activate the plugin, set your options and you're ready to go! Will automatically conform to your theme styles."
+msgstr "Расширение для WooCommerce, которое размещает значок корзины с количеством товаров и общей стоимостью в строке меню. Активируйте плагин, задайте параметры, и вы готовы к работе! Будет автоматически соответствовать стилям вашей темы."
+
+#: includes/wpmenucart-eshop.php:40
+msgid "%1$s%2$s"
+msgstr "%1$s%2$s"
+
+#: includes/wpmenucart-settings.php:259
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/wpmenucart-settings.php:710
+msgid "Add to Menu"
+msgstr "Добавить в меню"
+
+#: includes/wpmenucart-settings.php:26
+msgid "Plugin settings"
+msgstr "Настройки плагина"
+
+#. Plugin URI of the plugin/theme
+msgid "www.wpovernight.com/plugins"
+msgstr "www.wpovernight.com/plugins"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Menu Cart"
+msgstr "WooCommerce Menu Cart"
+
+#: includes/wpmenucart-eshop.php:40
+msgid "2"
+msgstr "2"
+
+#: includes/wpmenucart-settings.php:312
+msgid "WP Menu Cart"
+msgstr "WP Menu Cart"
+
+#: includes/wpmenucart-settings.php:247
+msgid "Menu Cart Setup"
+msgstr "Настройка Menu Cart"
+
+#: includes/wpmenucart-settings.php:246 includes/wpmenucart-settings.php:689
+msgid "Menu Cart"
+msgstr "Menu Cart"
+
+#: includes/wpmenucart-settings.php:705
+msgid "Menu Item"
+msgstr "Элемент меню"
+
+#: includes/wpmenucart-settings.php:373
+msgid "Customize my CSS!"
+msgstr "Настроить мой CSS!"
+
+#: wp-menu-cart.php:194
+msgid "Hide this notice"
+msgstr "Скрыть это уведомление"
+
+#: includes/wpmenucart-settings.php:122
+msgid "Choose a cart icon."
+msgstr "Выбрать иконку коризины."
+
+#: includes/wpmenucart-settings.php:177
+msgid "Align Right."
+msgstr "Выравнивание справа."
+
+#: includes/wpmenucart-settings.php:176
+msgid "Align Left."
+msgstr "Выравнивание слева."
+
+#: includes/wpmenucart-settings.php:161
+msgid "Both price and items."
+msgstr "Цена и колличество."
+
+#: includes/wpmenucart-settings.php:160
+msgid "Price Only."
+msgstr "Только цена."
+
+#: includes/wpmenucart-settings.php:159
+msgid "Items Only."
+msgstr "Только колличество."
+
+#: includes/wpmenucart-settings.php:33
+msgid "Select which e-commerce plugin you would like Menu Cart to work with"
+msgstr "Выберите, с каким плагином электронной коммерции вы хотите, чтобы Menu Cart работал"
+
+#: includes/wpmenucart-settings.php:59
+msgid "Always display cart, even if it's empty"
+msgstr "Всегда отображать корзину, даже если она пуста"
+
+#: includes/wpmenucart-settings.php:96
+msgid "Set maximum number of products to display in fly-out"
+msgstr "Установите максимальное количество продуктов для отображения во всплывающем меню"
+
+#: includes/wpmenucart-settings.php:151
+msgid "What would you like to display in the menu?"
+msgstr "Что бы вы хотели отобразить в меню?"
+
+#: includes/wpmenucart-settings.php:168
+msgid "Select the alignment that looks best with your menu."
+msgstr "Выберите выравнивание, которое лучше всего подходит для вашего меню."
+
+#: includes/wpmenucart-settings.php:178
+msgid "Default Menu Alignment."
+msgstr "Выравнивание меню по умолчанию."
+
+#: includes/wpmenucart-settings.php:185
+msgid "Enter a custom CSS class (optional)"
+msgstr "Введите пользовательский класс CSS (необязательно)"
+
+#: includes/wpmenucart-settings.php:199
+msgid "Use WPML String Translation"
+msgstr "Использовать перевод строк WPML"
+
+#: includes/wpmenucart-settings.php:360
+msgid "Automatic updates on any great new features"
+msgstr "Автоматические обновления любых замечательных новых функций"
+
+#: includes/wpmenucart-settings.php:365
+msgid "Need to see more? %sClick here%s to check it out. Add a product to your cart and watch what happens!"
+msgstr "Хотите увидеть больше? %sЩелкните здесь%s, чтобы проверить это. Добавьте товар в корзину и смотрите, что произойдет!"
+
+#: includes/wpmenucart-settings.php:442 includes/wpmenucart-settings.php:482
+#: includes/wpmenucart-settings.php:524 includes/wpmenucart-settings.php:563
+#: includes/wpmenucart-settings.php:600
+msgid "This feature only available in"
+msgstr "Эта функция доступна только в"
+
+#: includes/wpmenucart-settings.php:642
+msgid "Additional icons are only available in"
+msgstr "Дополнительные значки доступны только в"
+
+#: wp-menu-cart.php:412
+msgid "View your shopping cart"
+msgstr "Просмотреть корзину покупок"
+
+#: wp-menu-cart.php:413
+msgid "Start shopping"
+msgstr "Начать покупки"
+
+#: includes/wpmenucart-settings.php:83
+msgid "Display cart contents in menu fly-out."
+msgstr "Отображать содержимое корзины во всплывающем меню."
+
+#: includes/wpmenucart-settings.php:71
+msgid "Display shopping cart icon."
+msgstr "Отображать значок корзины покупок."
+
+#: wp-menu-cart.php:414
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d товар"
+msgstr[1] "%d товаров"
+msgstr[2] "%d товаров"
+
+#: wp-menu-cart.php:199
+msgid "An old version of WooCommerce Menu Cart is currently activated, you need to disable or uninstall it for WP Menu Cart to function properly"
+msgstr "В настоящее время активирована старая версия WooCommerce Menu Cart, вам необходимо отключить или удалить ее для правильной работы WP Menu Cart"
+
+#: includes/wpmenucart-settings.php:336
+msgid "Choice of 14 icons"
+msgstr "Выбор из 14 значков"
+
+#: includes/wpmenucart-settings.php:335
+msgid "Unlimited Menus"
+msgstr "Неограниченное меню"
+
+#: includes/wpmenucart-settings.php:46
+msgid "Select the menu(s) in which you want to display the Menu Cart"
+msgstr "Выберите меню, в котором вы хотите отобразить Menu Cart"
+
+#: includes/wpmenucart-settings.php:356
+msgid "A choice of 14 icons"
+msgstr "Выбор из 14 значков"
+
+#: includes/wpmenucart-settings.php:357
+msgid "A fully featured cart details flyout"
+msgstr "Полнофункциональное всплывающее окно с деталями корзины"
+
+#: includes/wpmenucart-settings.php:359
+msgid "Ability to add a custom css class"
+msgstr "Возможность добавить пользовательский класс css"
+
+#: includes/wpmenucart-settings.php:358
+msgid "Ability to add cart + flyout to an <strong>unlimited</strong> amount of menus"
+msgstr "Возможность добавить корзину + всплывающее меню в <strong>неограниченное</strong> количество меню."
+
+#: includes/wpmenucart-settings.php:337
+msgid "Access to Shortcode"
+msgstr "Доступ к шорткоду"
+
+#: includes/wpmenucart-settings.php:361
+msgid "Put the cart anywhere with the [wpmenucart] shortcode"
+msgstr "Поместите корзину в любое место с помощью шорткода [wpmenucart]"
+
+#: includes/wpmenucart-settings.php:351
+msgid "Sell In Style With Menu Cart Pro!"
+msgstr "Продавайте стильно с помощью Menu Cart Pro!"
+
+#: includes/wpmenucart-settings.php:338
+msgid "Top Notch Support"
+msgstr "Первоклассная поддержка"
+
+#: includes/wpmenucart-settings.php:369
+msgid "Want your CSS customized?"
+msgstr "Хотите настроить свой CSS?"
+
+#: includes/wpmenucart-settings.php:371
+msgid "We can do that for you! Just click the button below to check it out."
+msgstr "Мы можем сделать это для вас! Просто нажмите кнопку ниже, чтобы проверить это."
+
+#: wp-menu-cart.php:193
+msgid "WP Menu Cart Pro could not detect an active shop plugin. Make sure you have activated at least one of the supported plugins."
+msgstr "WP Menu Cart Pro не смог обнаружить активный плагин магазина. Убедитесь, что вы активировали хотя бы один из поддерживаемых плагинов."
+
+#: includes/wpmenucart-settings.php:213
+msgid "Use Built-in AJAX"
+msgstr "Используйте встроенный AJAX"
+
+#: includes/wpmenucart-settings.php:220
+msgid "Enable this option to use the built-in AJAX / live update functions instead of the default ones from WooCommerce or Jigoshop"
+msgstr "Включите эту опцию, чтобы использовать встроенные функции AJAX/обновления в реальном времени вместо функций по умолчанию из WooCommerce или Jigoshop."
+
+#: includes/wpmenucart-settings.php:353
+msgid "Go Pro with Menu Cart Pro. Includes all the great standard features found in this free version plus:"
+msgstr "Станьте профессионалом с Menu Cart Pro. Включает в себя все замечательные стандартные функции этой бесплатной версии, а также:"
+
+#: includes/wpmenucart-settings.php:366
+msgid "Buy Now"
+msgstr "Купить"

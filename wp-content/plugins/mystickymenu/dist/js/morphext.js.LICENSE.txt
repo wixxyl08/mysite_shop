@@ -1,0 +1,7 @@
+/*!
+ * morphext - Text Rotating Plugin for jQuery
+ * https://github.com/ferbueno/morphext
+ *
+ * Built on jQuery Boilerplate
+ * http://jqueryboilerplate.com/
+ */
